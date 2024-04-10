@@ -1,0 +1,7 @@
+{
+  "access-token": "ACCESS_TOKEN",
+  "server": "anakmanis.com",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1
+}
