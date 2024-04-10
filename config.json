@@ -9,5 +9,5 @@
   "backfill-with-context": 0,
   "backfill-mentioned-users": 0,
   "remember-users-for-hours": 72,
-  "http-timeout": 5
+  "http-timeout": 10
 }
