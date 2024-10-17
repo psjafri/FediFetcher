@@ -8,7 +8,7 @@
   "max-bookmarks": 10,
   "max-favourites": 10,
   "max-follow-requests": 10,
-  "backfill-with-context": 1,
+  "backfill-with-context": 0,
   "backfill-mentioned-users": 1,
   "remember-users-for-hours": 72,
   "http-timeout": 10
