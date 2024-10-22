@@ -1,15 +1,15 @@
 {
   "server": "anakmanis.com",
-  "max-followings": 0,
-  "max-followers": 0,
-  "home-timeline-length": 300,
+  "max-followings": 50,
+  "max-followers": 50,
+  "home-timeline-length": 500,
   "reply-interval-in-hours": 48,
-  "from-notifications": 1,
+  "from-notifications": 10,
   "max-bookmarks": 10,
   "max-favourites": 10,
   "max-follow-requests": 10,
-  "backfill-with-context": 1,
-  "backfill-mentioned-users": 1,
+  "backfill-with-context": 0,
+  "backfill-mentioned-users": 0,
   "remember-users-for-hours": 72,
   "http-timeout": 20
 }
